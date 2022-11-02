@@ -10,3 +10,6 @@ Starting up the project:
 json-server --watch data/champions.json
 then 
 npm start
+
+
+Last update: 2/11/2022
